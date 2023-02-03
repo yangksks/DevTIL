@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Templates/{{title}}.md",
+                "file": "0. Templates/{{title}.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Templates/{{title}}.md",
+                "file": "0. Templates/{{title}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Templates/{{title}}.md",
+                "file": "0. Templates/{{title}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Templates/{{title}}.md"
+                "file": "0. Templates/{{title}.md"
               }
             }
           },
@@ -176,7 +176,7 @@
   "active": "48b01310e0acb974",
   "lastOpenFiles": [
     "0. Templates.md",
-    "0. Templates/{{title}}.md",
+    "0. Templates/{{title}.md",
     "README.md",
     "HOME.md",
     "Blog/Algorithm/넓이 우선 탐색(BFS).md",
