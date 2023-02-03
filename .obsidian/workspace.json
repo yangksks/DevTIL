@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "README.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "98fa2ef86ce0d306",
   "lastOpenFiles": [
+    "무제 파일.md",
     "README.md",
     "0. Templates/{{title}.md",
     "0. Templates.md",
@@ -195,7 +196,6 @@
     "무제 파일.canvas",
     "Blog/작성 글 목록.md",
     "2023-02-01.md",
-    "취업 컨설팅.md",
-    "Blog/JPA/[JPA] 양방향 순환참조 문제 및 해결방법.md"
+    "취업 컨설팅.md"
   ]
 }
