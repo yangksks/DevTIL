@@ -26,21 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "98fa2ef86ce0d306",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98fa2ef86ce0d306",
+  "active": "48b01310e0acb974",
   "lastOpenFiles": [
     "무제 파일.md",
     "README.md",
