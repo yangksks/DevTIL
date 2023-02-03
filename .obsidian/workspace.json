@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9132a24aabd93cb",
+        "id": "bd5cdb466b7a71ff",
         "type": "tabs",
         "children": [
           {
-            "id": "c07eddaa516db03b",
+            "id": "067995cb30d3ad56",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,7 +156,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c07eddaa516db03b",
+  "active": "067995cb30d3ad56",
   "lastOpenFiles": [
     "README.md",
     "HOME.md",
