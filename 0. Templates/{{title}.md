@@ -1,1 +1,0 @@
-**Write** : {{date}} {{time}}

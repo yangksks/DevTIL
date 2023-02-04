@@ -1,3 +1,10 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "지식노트/1. Fleeting note",
+  "userIgnoreFilters": [
+    "지식노트/0. Templates/",
+    "지식노트/2. ETC/"
+  ]
 }

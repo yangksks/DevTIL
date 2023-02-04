@@ -100,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "지식노트/1. Fleeting note/Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "지식노트/1. Fleeting note/Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "지식노트/1. Fleeting note/Lambda.md"
+              }
             }
           },
           {
@@ -201,14 +205,14 @@
         "direction": "vertical",
         "x": 604,
         "y": 1096,
-        "width": 1280,
-        "height": 760,
+        "width": 3744,
+        "height": 2080,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d0f6769015855191",
+  "active": "ba96118a911c624a",
   "lastOpenFiles": [
     "지식노트/1. Fleeting note/Lambda.md",
     "README.md",
