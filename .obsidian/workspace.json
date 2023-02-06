@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "16457491a33e36fc",
+            "id": "1273a8939065ecfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,17 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16457491a33e36fc",
+  "active": "1273a8939065ecfb",
   "lastOpenFiles": [
     "README.md",
     "Backend/JAVA/객체지향.md",
+    "General/Algorithme/넓이 우선 탐색(BFS).md",
     "Backend/Spring/JPA/N+1 문제.md",
     "Callouts.md",
     "지식노트/3. MOC/Java.md",
     "지식노트/3. MOC/Spring.md",
     "지식노트/3. MOC/Database.md",
     "지식노트/2. ETC/취업 컨설팅.md",
-    "지식노트/2. ETC/3D 모델링 최적화.md",
-    "지식노트/0. Templates/Moc.md"
+    "지식노트/2. ETC/3D 모델링 최적화.md"
   ]
 }
