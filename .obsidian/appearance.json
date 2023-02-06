@@ -1,3 +1,11 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Discordian",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "D2Coding",
+  "showViewHeader": true,
+  "translucency": false,
+  "nativeMenus": false
 }

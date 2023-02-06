@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "16457491a33e36fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/JAVA/객체지향.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 238
   },
   "right": {
     "id": "dbbf3714f30db8e2",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Backend/JAVA/객체지향.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Backend/JAVA/객체지향.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,16 +140,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Backend/JAVA/객체지향.md"
               }
-            }
-          },
-          {
-            "id": "738429d0f19636b7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -147,13 +152,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 244
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,17 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "659786c59ed261cf",
+  "active": "16457491a33e36fc",
   "lastOpenFiles": [
-    "지식노트/3. MOC/Java.md",
     "README.md",
-    "지식노트/1. Fleeting note/양방향 순환참조 문제 및 해결방법.md",
-    "지식노트/1. Fleeting note/Lambda.md",
-    "JAVA/JPA/N+1 문제.md",
-    "지식노트/0. Templates/Moc.md",
-    "지식노트/0. Templates/노트.md",
-    "지식노트/0. Templates/임시메모.md",
+    "Backend/JAVA/객체지향.md",
+    "Backend/Spring/JPA/N+1 문제.md",
+    "Callouts.md",
+    "지식노트/3. MOC/Java.md",
+    "지식노트/3. MOC/Spring.md",
     "지식노트/3. MOC/Database.md",
-    "JAVA/JAVA.md"
+    "지식노트/2. ETC/취업 컨설팅.md",
+    "지식노트/2. ETC/3D 모델링 최적화.md",
+    "지식노트/0. Templates/Moc.md"
   ]
 }
