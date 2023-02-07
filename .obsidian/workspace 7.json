@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "dc67a691ad4cfbe5",
+    "id": "8669026635b110d0",
     "type": "split",
     "children": [
       {
-        "id": "98e4782047f6c60a",
+        "id": "0594b1d94236bfbf",
         "type": "tabs",
         "children": [
           {
-            "id": "7ecc41feb44c7cd6",
+            "id": "6354e79ca85b1ba0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Spring/JPA/순환참조 문제.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d523b6e759661e01",
+    "id": "612b3569fdeff8a2",
     "type": "split",
     "children": [
       {
-        "id": "f5a4f12578314dbe",
+        "id": "4932d622cce5a7ec",
         "type": "tabs",
         "children": [
           {
-            "id": "30fe7d38d52490ce",
+            "id": "c01313ac6aeb31d4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "93c08cbf9bfa2aab",
+            "id": "06751cbcc6cf68e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "ce30f8c4326bd6e6",
+            "id": "c7764f0dcc782541",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "130b56e79e749106",
+    "id": "5500537922fb3d55",
     "type": "split",
     "children": [
       {
-        "id": "5d4af3084f87cd67",
+        "id": "dac65687c08596cc",
         "type": "tabs",
         "children": [
           {
-            "id": "f931ca80d69e7b69",
+            "id": "3bb614baf2a2ef10",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Spring/JPA/순환참조 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "9785ebc2a1a81d58",
+            "id": "4d441d5668517a31",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Spring/JPA/순환참조 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "af284cfb95c72e82",
+            "id": "e84f46b4634ec1dc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "7426a9bad88ba4ed",
+            "id": "8407895228fc3ad7",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Backend/Spring/JPA/순환참조 문제.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +140,6 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7ecc41feb44c7cd6",
-  "lastOpenFiles": [
-    "Backend/Spring/JPA/N+1 문제.md",
-    "Backend/Spring/JPA/순환참조 문제.md",
-    "Backend/JAVA/객체지향.md"
-  ]
+  "active": "6354e79ca85b1ba0",
+  "lastOpenFiles": []
 }

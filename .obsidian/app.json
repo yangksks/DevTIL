@@ -10,5 +10,6 @@
   "showLineNumber": true,
   "trashOption": "local",
   "newLinkFormat": "shortest",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "vimMode": false
 }

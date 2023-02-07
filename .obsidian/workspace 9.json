@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Spring/JPA/순환참조 문제.md",
+                "file": "Backend/Spring/JPA/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Spring/JPA/순환참조 문제.md",
+                "file": "Backend/Spring/JPA/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Spring/JPA/순환참조 문제.md",
+                "file": "Backend/Spring/JPA/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Spring/JPA/순환참조 문제.md"
+                "file": "Backend/Spring/JPA/무제 파일.md"
               }
             }
           }
@@ -149,9 +149,5 @@
     }
   },
   "active": "7ecc41feb44c7cd6",
-  "lastOpenFiles": [
-    "Backend/Spring/JPA/N+1 문제.md",
-    "Backend/Spring/JPA/순환참조 문제.md",
-    "Backend/JAVA/객체지향.md"
-  ]
+  "lastOpenFiles": []
 }

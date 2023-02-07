@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiVim",
       "SiThealgorithms",
       "SiSpring",
       "FabJava",
@@ -22,5 +23,6 @@
   },
   "Backend/JAVA": "FabJava",
   "Backend/Spring": "SiSpring",
-  "General/Algorithme": "SiThealgorithms"
+  "General/Algorithme": "SiThealgorithms",
+  "General/Vim": "SiVim"
 }
