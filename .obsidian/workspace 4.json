@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "f711e2c918fdbceb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd5cdb466b7a71ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "659786c59ed261cf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c5ef649b132f0c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "abfec404f431abe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba6f2642923c8ef3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8caae46ae36b5340",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2c434d0372700e9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238
+  },
+  "right": {
+    "id": "dbbf3714f30db8e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdd96fbdea587dd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82beacdd9b22f66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1f8a209c33f6bc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0621459ac7f9b7a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "87ced94bea3d645f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "75a677657b7fb266",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "templates:템플릿 삽입": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "659786c59ed261cf",
+  "lastOpenFiles": [
+    "Backend/JAVA/객체지향.md",
+    "README.md",
+    "General/Vim/Vim 기본.md",
+    "무제 파일.canvas",
+    "General/Algorithme/넓이 우선 탐색(BFS).md",
+    "Backend/Spring/JPA/N+1 문제.md",
+    "Callouts.md",
+    "지식노트/3. MOC/Java.md",
+    "지식노트/3. MOC/Spring.md",
+    "지식노트/3. MOC/Database.md"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "지식노트/1. Fleeting note",
+  "userIgnoreFilters": [
+    "지식노트/"
+  ],
+  "foldHeading": true,
+  "showLineNumber": true,
+  "trashOption": "local",
+  "newLinkFormat": "shortest",
+  "showInlineTitle": false,
+  "vimMode": false
+}
