@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d72ec5cb1ff5e16c",
+        "id": "e22b8913966a2ae8",
         "type": "tabs",
         "children": [
           {
-            "id": "1b1f5fadeb7745ee",
+            "id": "60d0169d9babbc5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지식노트/2. ETC/작성 글 목록.md",
+                "file": "Backend/Spring/📖도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "지식노트/2. ETC/작성 글 목록.md",
+                "file": "Backend/Spring/📖도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "지식노트/2. ETC/작성 글 목록.md",
+                "file": "Backend/Spring/📖도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "지식노트/2. ETC/작성 글 목록.md"
+                "file": "Backend/Spring/📖도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md"
               }
             }
           }
@@ -148,14 +148,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1b1f5fadeb7745ee",
+  "active": "60d0169d9babbc5d",
   "lastOpenFiles": [
-    "지식노트/2. ETC/취업 컨설팅.md",
+    "Backend/JAVA/객체지향.md",
     "지식노트/2. ETC/작성 글 목록.md",
+    "지식노트/2. ETC/취업 컨설팅.md",
     "지식노트/2. ETC/테스트중.md",
     "README.md",
     "Backend/Spring/JPA/순환참조 문제.md",
-    "Backend/Spring/JPA/N+1 문제.md",
-    "Backend/JAVA/객체지향.md"
+    "Backend/Spring/JPA/N+1 문제.md"
   ]
 }
