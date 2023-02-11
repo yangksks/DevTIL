@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지식노트/2. ETC/테스트중.md",
+                "file": "지식노트/2. ETC/작성 글 목록.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "지식노트/2. ETC/테스트중.md",
+                "file": "지식노트/2. ETC/작성 글 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "지식노트/2. ETC/테스트중.md",
+                "file": "지식노트/2. ETC/작성 글 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "지식노트/2. ETC/테스트중.md"
+                "file": "지식노트/2. ETC/작성 글 목록.md"
               }
             }
           }
@@ -150,6 +150,10 @@
   },
   "active": "1b1f5fadeb7745ee",
   "lastOpenFiles": [
+    "지식노트/2. ETC/취업 컨설팅.md",
+    "지식노트/2. ETC/작성 글 목록.md",
+    "지식노트/2. ETC/테스트중.md",
+    "README.md",
     "Backend/Spring/JPA/순환참조 문제.md",
     "Backend/Spring/JPA/N+1 문제.md",
     "Backend/JAVA/객체지향.md"
