@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e8e1d83e24855a61",
+        "id": "eb51e4da5dcbc1ab",
         "type": "tabs",
         "children": [
           {
-            "id": "c0ae13b3a51b3bbc",
+            "id": "07200ce4dc9fa483",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Books/📖도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Books/📖도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Books/📖도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Backend/Books/📖도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,9 +142,9 @@
   },
   "active": "30fe7d38d52490ce",
   "lastOpenFiles": [
+    "General/Books/도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
     "Backend/Spring/JPA/N+1 문제.md",
     "Backend/Spring/JPA/순환참조 문제.md",
-    "Backend/Books/📖도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
     "Backend/JAVA/객체지향.md",
     "지식노트/2. ETC/작성 글 목록.md",
     "지식노트/2. ETC/취업 컨설팅.md",

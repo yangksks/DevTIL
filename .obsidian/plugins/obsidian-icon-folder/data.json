@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiBook3Fill",
+      "SiBookstack",
       "FasBookOpen",
       "SiVim",
-      "SiThealgorithms",
-      "SiSpring",
-      "FabJava"
+      "SiThealgorithms"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,5 +25,8 @@
   "Backend/Spring": "SiSpring",
   "General/Algorithme": "SiThealgorithms",
   "General/Vim": "SiVim",
-  "Backend/Books": "FasBookOpen"
+  "General/Books": "SiBookstack",
+  "General/Books/자바와 JUnit을 활용한 실용주의 단위 테스트": "FasBookOpen",
+  "General/Books/도메인 주도 개발 시작하기": "FasBookOpen",
+  "General/Books/자바 ORM 표준 JPA 프로그래밍": "FasBookOpen"
 }
