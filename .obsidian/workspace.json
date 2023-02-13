@@ -11,8 +11,12 @@
             "id": "07200ce4dc9fa483",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "General/Books/도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General/Books/도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "General/Books/도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "General/Books/도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md"
+              }
             }
           }
         ]
@@ -140,7 +148,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "30fe7d38d52490ce",
+  "active": "07200ce4dc9fa483",
   "lastOpenFiles": [
     "General/Books/도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
     "Backend/Spring/JPA/N+1 문제.md",
