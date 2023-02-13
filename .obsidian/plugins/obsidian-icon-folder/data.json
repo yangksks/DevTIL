@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBookOpen",
       "SiVim",
       "SiThealgorithms",
       "SiSpring",
-      "FabJava",
-      "Fab42-group"
+      "FabJava"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,5 +24,6 @@
   "Backend/JAVA": "FabJava",
   "Backend/Spring": "SiSpring",
   "General/Algorithme": "SiThealgorithms",
-  "General/Vim": "SiVim"
+  "General/Vim": "SiVim",
+  "Backend/Books": "FasBookOpen"
 }
