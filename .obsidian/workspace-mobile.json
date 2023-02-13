@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Algorithme/넓이 우선 탐색(BFS).md",
+                "file": "General/Books/도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "General/Algorithme/넓이 우선 탐색(BFS).md",
+            "file": "General/Books/도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "General/Algorithme/넓이 우선 탐색(BFS).md",
+            "file": "General/Books/도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,15 +114,17 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "General/Algorithme/넓이 우선 탐색(BFS).md"
+            "file": "General/Books/도메인 주도 개발 시작하기/01. 도메인 모델 시작하기.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "2f1a6701940b2fd0",
+  "active": "2e3d855044db21e4",
   "lastOpenFiles": [
+    "Callouts.md",
+    "General/Algorithme/넓이 우선 탐색(BFS).md",
     "2023-02-01.md",
     "Blog/Algorithm/넓이 우선 탐색(BFS).md"
   ]
