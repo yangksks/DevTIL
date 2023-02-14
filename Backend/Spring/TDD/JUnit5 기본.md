@@ -24,7 +24,8 @@
 ![image](https://user-images.githubusercontent.com/56426044/218731731-30a889cf-37db-4d33-bcc6-95d51838d0d7.png)
 
 ## Given-When-Then
-Given-When-Then는 테스트 코드를 작성하는 반 구조화(semi-structured) 된 방법이다.
+> Given-When-Then는 테스트 코드를 작성하는 반 구조화(semi-structured) 된 방법이다.
+
 **Given** : 테스트를 위해 준비하는 과정, 테스트에 사용되는 변수, 입력 값 등을 정의하거나, Mock 객체를 정의하는 구문도 Given에 포함한다
 **When** : 실제로 액션을 하는 테스트를 실행하는 과정이다.
 **Then** : 테스트를 검증하는 과정이다. 예상한 값, 실제 실행을 통해서 나온 값을 검증한다.

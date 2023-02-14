@@ -160,14 +160,14 @@
   "active": "4047cbd556a36b39",
   "lastOpenFiles": [
     "Backend/Spring/TDD/1. Spring에서의 단위 테스트와 TDD(테스트 주도 개발) 방법 소개.md",
-    "FrontEnd/CSR과 SSR.md",
     "Backend/Spring/TDD/JUnit5 기본.md",
+    "Backend/Spring/JPA/N+1 문제.md",
+    "Backend/Spring/JPA/순환참조 문제.md",
+    "FrontEnd/CSR과 SSR.md",
     "Backend/JAVA/Java의 기본.md",
     "General/Algorithme/넓이 우선 탐색(BFS).md",
     "General/Books/자바와 JUnit을 활용한 실용주의 단위 테스트/무제 파일.md",
     "Backend/JAVA/자바 CS 질문.md",
-    "Backend/면접 CS/객체지향.md",
-    "Pasted image 20230214111408.png",
-    "Callouts.md"
+    "Backend/면접 CS/객체지향.md"
   ]
 }
