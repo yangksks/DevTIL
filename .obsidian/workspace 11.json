@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/JAVA/자바 CS 질문.md",
+                "file": "Backend/JAVA/Java의 기본.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/JAVA/자바 CS 질문.md",
+                "file": "Backend/면접 CS/객체지향.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/JAVA/자바 CS 질문.md",
+                "file": "Backend/면접 CS/객체지향.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/JAVA/자바 CS 질문.md",
+                "file": "Backend/면접 CS/객체지향.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/JAVA/자바 CS 질문.md"
+                "file": "Backend/면접 CS/객체지향.md"
               }
             }
           }
@@ -160,11 +161,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "07200ce4dc9fa483",
+  "active": "cc1f60ab6ab08bfa",
   "lastOpenFiles": [
-    "Backend/JAVA/Java의 기본.md",
     "Backend/JAVA/자바 CS 질문.md",
     "Backend/면접 CS/객체지향.md",
+    "Backend/JAVA/Java의 기본.md",
     "General/Algorithme/넓이 우선 탐색(BFS).md",
     "Pasted image 20230214111408.png",
     "Callouts.md",
