@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/JAVA/자바 CS 질문.md",
+                "file": "General/Books/자바와 JUnit을 활용한 실용주의 단위 테스트/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/JAVA/자바 CS 질문.md",
+                "file": "General/Books/자바와 JUnit을 활용한 실용주의 단위 테스트/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/JAVA/자바 CS 질문.md",
+                "file": "General/Books/자바와 JUnit을 활용한 실용주의 단위 테스트/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/JAVA/자바 CS 질문.md"
+                "file": "General/Books/자바와 JUnit을 활용한 실용주의 단위 테스트/무제 파일.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "07200ce4dc9fa483",
   "lastOpenFiles": [
-    "Backend/JAVA/Java의 기본.md",
     "Backend/JAVA/자바 CS 질문.md",
+    "Backend/JAVA/Java의 기본.md",
     "Backend/면접 CS/객체지향.md",
     "General/Algorithme/넓이 우선 탐색(BFS).md",
     "Pasted image 20230214111408.png",
