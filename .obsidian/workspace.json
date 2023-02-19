@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7817ba145a66d3b2",
+        "id": "35e7a09c5d2be080",
         "type": "tabs",
         "children": [
           {
-            "id": "997b99abcfaa7b08",
+            "id": "5fe13fed6bc9de04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5. Error 모음/JPA.err/순환참조 문제.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. Error 모음/JPA.err/순환참조 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5. Error 모음/JPA.err/순환참조 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5. Error 모음/JPA.err/순환참조 문제.md"
+              }
             }
           },
           {
@@ -148,17 +157,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "997b99abcfaa7b08",
+  "active": "5fe13fed6bc9de04",
   "lastOpenFiles": [
-    "1. Language/JAVA/2. Java의 구조.md",
-    "1. Language/JAVA/0. 자바 CS 질문.md",
-    "1. Language/JAVA/1. 객체지향 프로그래밍(OOP).md",
-    "0. Templates/노트.md",
+    "5. Error 모음/JPA.err/N+1 문제.md",
     "5. Error 모음/JPA.err/순환참조 문제.md",
     "2. Framework/Spring/0. Spring 작성 예정 목록.md",
+    "1. Language/JAVA/0. 자바 CS 질문.md",
+    "1. Language/JAVA/1. 객체지향 프로그래밍(OOP).md",
+    "1. Language/JAVA/2. Java의 구조.md",
+    "0. Templates/노트.md",
     "0. Templates/작성 글 목로.md",
     "7. ETC/취업 컨설팅.md",
-    "7. ETC/3D 모델링 최적화.md",
-    "Excalidraw/Drawing 2023-02-15 19.26.27.excalidraw.md"
+    "7. ETC/3D 모델링 최적화.md"
   ]
 }
