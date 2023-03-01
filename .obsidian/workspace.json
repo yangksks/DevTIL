@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 220
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,7 +157,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9666d8c5c43842d0",
+  "active": "30fe7d38d52490ce",
   "lastOpenFiles": [
     "5. Error 모음/JPA.err/N+1 문제.md",
     "5. Error 모음/JPA.err/순환참조 문제.md",
