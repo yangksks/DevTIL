@@ -6,6 +6,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-outliner",
   "cm-typewriter-scroll-obsidian",
-  "obsidian-excalidraw-plugin",
-  "url-into-selection"
+  "url-into-selection",
+  "dataview",
+  "folder-note-plugin"
 ]
