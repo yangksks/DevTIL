@@ -5,8 +5,6 @@
 ## SSR의 정의와 설명
 💡 Server Side Rendering의 약자
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1ea126c1-8d82-4fa1-8592-e12885d6c424/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T114409Z&X-Amz-Expires=86400&X-Amz-Signature=fd46c701db984f99d5e33399477569b4329459c0ed1a8208517ae6d2a5d4441a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
-
 #### 단계
 1.  User가 Website 요청을 보냄
 2.  Server는 ‘Ready to Render’ 즉, 즉시 렌더링 가능한 html 파일을 만든다.
@@ -19,9 +17,6 @@
 ## CSR의 정의와 설명
 
 💡 Client Side Rendering의 약자
-
-
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6aa80ea0-8577-47aa-8f58-64bb05c79c03/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230214T114530Z&X-Amz-Expires=86400&X-Amz-Signature=fc272ef4643e90c3d6c0560e695918c3204043fdf8dce2199670ba9eb605b60e&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 1.  User가 Website 요청을 보냄
 2.  CDN이 HTML 파일과 JS로 접근할 수 있는 링크를 클라이언트로 보낸다.
