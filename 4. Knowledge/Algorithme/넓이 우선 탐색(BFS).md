@@ -1,7 +1,22 @@
+
+---
+category: Algorithme
+
+write : 2023-01-31
+
+tags : [Knowledge/Algorithme,BFS]
+
+obsidianUIMode: preview
+
+obsidianEditingMode: live
+
+cssClasses: row-alt, table-small, col-lines, row-lines
+
+---
 # 넓이 우선 탐색(BFS)
-**Write** : 2023-01-31 01:27
-**Tag** : #Algorithme #알고리즘이론
+**참조 링크** :
 ***
+
 시작 정점으로부터 가까운 정점을 우선 탐색하는 알고리즘
 - 사용하는 경우 : 두 노드 사이의 최단 경로 혹은 임의의 경로를 찾고 싶을 때
 

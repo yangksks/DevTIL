@@ -1,7 +1,21 @@
+---
+category: Web 지식
+
+write : 2023-02-14
+
+tags : [Knowledge/개발지식/Web지식]
+
+obsidianUIMode: preview
+
+obsidianEditingMode: live
+
+cssClasses: row-alt, table-small, col-lines, row-lines
+
+---
 # CSR과 SSR
-**Write** : 2023-02-14 20:43
-**Tag** : #CS #Web
+**참조 링크** :
 ***
+
 ## SSR의 정의와 설명
 💡 Server Side Rendering의 약자
 
